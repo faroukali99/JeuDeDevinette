@@ -1,3 +1,19 @@
+/*
+Noms :      ALI             AWISSOBA            LAWSON
+
+Prenoms :   Farouk          Malibida            Late Jonathan
+
+Nom du projet : Jeu de devinette
+
+Code et intitule d'UE : INF 1329 - Projet Tuteuré 1
+
+Parcours : Licence professionnelle Genie Logiciel
+
+Professeur : Mr AKAKPO
+
+Annee academique : 2024-2025
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
